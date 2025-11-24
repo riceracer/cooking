@@ -5,11 +5,11 @@
 * 1 lb ground beef (10% or 20% fat)
 * 1 large white onion (chopped)
 * 1-2 cloves garlic (pressed)
-* 2 cans diced tomatoes (14 oz)
+* 2 cans diced tomatoes (14 oz ea)
 * 1 can rotel diced tomatoes and green chilis (10 oz)
-* 1 can "ranch style beans" (14 oz)
+* 1 can "Ranch Style Beans" (14 oz - black cans)
 * 1 large carrot (sliced)
-* Spices: chili pepper, salt, pepper, cumin, slap yo mama cajun seasoning original
+* Spices: chili pepper, salt, pepper, cumin, slap yo mama cajun seasoning original, paprika
 
 ## Steps
 
@@ -23,7 +23,9 @@
 
 ## Substitutes and additions
 
-* Ranch Style Beans - canned pinto beans or black beans
+* Ranch Style Beans
+    * "homemade" ranch style beans: canned pinto beans + tomato paste, onion powder, garlic powder, paprika
+    * Black beans
 * Spices - adjust for preference
 * Jalepeño slices
 
