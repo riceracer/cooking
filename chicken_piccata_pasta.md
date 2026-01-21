@@ -1,4 +1,4 @@
-# Chicken Picaccata Pasta
+# Chicken Piccata Pasta
 
 ## Ingredients
 
